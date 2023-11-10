@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">2nd LAB - Type of Sports</string>
+
+    <!-- Sport name (in English)-->
+
+    <string name="american_football_listName">American Football</string>
+    <string name="badminton_listName">Badminton</string>
+    <string name="baseball_listName">Baseball</string>
+    <string name="basketball_listName">Basketball</string>
+    <string name="bowling_listName">Bowling</string>
+    <string name="football_listName">Football/Soccer</string>
+    <string name="golf_listName">Golf</string>
+    <string name="tennis_listName">Tennis</string>
+    <string name="ping_pong_listName">Ping Pong/Table Tennis</string>
+
+    <!--Button Label-->
+
+    <string name="btn_delete">Delete</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_modify">Modify</string>
+    <string name="btn_pick_image">Pick Image</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab 2 - Các môn thể thao</string>
+
+    <!-- Sport name (in Vietnamese)-->
+
+    <string name="american_football_listName">Bóng bầu dục</string>
+    <string name="badminton_listName">Cầu lông</string>
+    <string name="baseball_listName">Bóng chày</string>
+    <string name="basketball_listName">Bóng rổ</string>
+    <string name="bowling_listName">Bowling</string>
+    <string name="football_listName">Bóng đá</string>
+    <string name="golf_listName">Golf</string>
+    <string name="tennis_listName">Quần vợt</string>
+    <string name="ping_pong_listName">Bóng bàn</string>
+
+    <!--Button Label-->
+
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_detail">Chi tiết</string>
+    <string name="btn_modify">Chỉnh sửa</string>
+    <string name="btn_pick_image">Chọn hình ảnh</string>
+</resources>
